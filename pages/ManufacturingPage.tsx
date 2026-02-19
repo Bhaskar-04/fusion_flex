@@ -30,7 +30,7 @@ const ManufacturingPage: React.FC<ManufacturingPageProps> = ({ onQuoteClick }) =
   ];
 
   return (
-    <div className="pt-24 pb-24 bg-white">
+    <div className="pt-24 pb-24 bg-gray-200">
       {/* Hero */}
       <div className="bg-dark py-24 relative overflow-hidden text-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10 text-center">
